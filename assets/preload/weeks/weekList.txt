@@ -2,6 +2,8 @@ mighty
 mighty2
 mighty3
 mighty4
-
-
-
+tutorial 
+week 1
+week 2
+week 3
+week 4
