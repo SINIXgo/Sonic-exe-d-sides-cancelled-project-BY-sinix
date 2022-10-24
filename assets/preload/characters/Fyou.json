@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "fuck idle",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "fuck left",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "fuck down",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "fuck up",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "fuck right",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/Fyou",
+  "position": [
+    60,
+    380
+  ],
+  "healthicon": "meaty",
+  "flip_x": false,
+  "healthbar_colors": [
+    160,
+    127,
+    191
+  ],
+  "camera_position": [
+    60,
+    380
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

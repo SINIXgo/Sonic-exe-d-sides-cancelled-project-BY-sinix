@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FangIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				53,
+				-12
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "shoot",
+			"indices": [],
+			"name": "FangShoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				-154
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownPoseFang",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftPoseFang",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpPoseFang",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-73
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightFangNote pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nack Soul",
+	"position": [
+		-140,
+		70
+	],
+	"healthicon": "fang",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		147,
+		57
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

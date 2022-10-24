@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-213
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mitee singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mitee singUP"
+		},
+		{
+			"offsets": [
+				0,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mitee singRIGHT"
+		},
+		{
+			"offsets": [
+				7,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mitee singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Mitee idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mitee",
+	"position": [
+		120,
+		-40
+	],
+	"healthicon": "mitee",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		60,
+		140
+	],
+	"camera_position": [
+		130,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

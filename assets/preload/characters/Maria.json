@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleMaria",
+			"indices": []
+		},
+		{
+			"offsets": [
+				66,
+				-133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownMariaPose"
+		},
+		{
+			"offsets": [
+				44,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MariaRightpose"
+		},
+		{
+			"offsets": [
+				121,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftNoteMaria"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				107
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpMariaPose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				81,
+				135
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "MariaLaugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/maria",
+	"position": [
+		-110,
+		60
+	],
+	"healthicon": "Maria",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		20,
+		55
+	],
+	"camera_position": [
+		-170,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

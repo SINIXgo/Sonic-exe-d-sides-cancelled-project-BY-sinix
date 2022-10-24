@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ray_Doll_Alt Idle"
+		},
+		{
+			"offsets": [
+				20,
+				70
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ray_Doll_Alt Sing Up"
+		},
+		{
+			"offsets": [
+				110,
+				10
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ray_Doll_Alt Sing Left"
+		},
+		{
+			"offsets": [
+				-80,
+				-20
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ray_Doll_Alt Sing Right"
+		},
+		{
+			"offsets": [
+				20,
+				-100
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ray_Doll_Alt Sing Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ray_Doll_Alt",
+	"position": [
+		-610,
+		-280
+	],
+	"healthicon": "none",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		510,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

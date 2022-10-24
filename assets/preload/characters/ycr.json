@@ -1,0 +1,122 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        50,
+        -39
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "MightyZIPIdle",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        42,
+        -183
+      ],
+      "anim": "prepping",
+      "fps": 24,
+      "name": "MightyZIPPrepping",
+      "indices": []
+    },
+    {
+      "loop": true,
+      "offsets": [
+        -148,
+        -140
+      ],
+      "anim": "ARGH",
+      "fps": 24,
+      "name": "MightyZIPARGH",
+      "indices": []
+    },
+    {
+      "offsets": [
+        50,
+        -39
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "IAMGOD",
+      "loop": false,
+      "name": "MightyZIPIdle"
+    },
+    {
+      "offsets": [
+        16,
+        -39
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singUP-alt",
+      "loop": false,
+      "name": "MightyZIPLaugh"
+    },
+    {
+      "offsets": [
+        -1,
+        -19
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singRIGHT",
+      "loop": false,
+      "name": "MightyZIPRight"
+    },
+    {
+      "offsets": [
+        41,
+        38
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singUP",
+      "loop": false,
+      "name": "MightyZIPUp"
+    },
+    {
+      "offsets": [
+        105,
+        -223
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singDOWN",
+      "loop": false,
+      "name": "MightyZIPDown"
+    },
+    {
+      "offsets": [
+        258,
+        -119
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singLEFT",
+      "loop": false,
+      "name": "MightyZIPLeft"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/ycr",
+  "position": [
+    60,
+    40
+  ],
+  "healthicon": "ycr",
+  "flip_x": false,
+  "healthbar_colors": [
+    61,
+    36,
+    77
+  ],
+  "camera_position": [
+    -90,
+    210
+  ],
+  "sing_duration": 6.1,
+  "scale": 0.9
+}

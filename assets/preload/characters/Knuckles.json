@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				-129
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-178
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-192,
+				-144
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-60
+			],
+			"anim": "GameOn",
+			"fps": 18,
+			"name": "game",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-117,
+				-72
+			],
+			"anim": "Tougher",
+			"fps": 18,
+			"name": "tougher",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				30
+			],
+			"anim": "Screech",
+			"fps": 18,
+			"name": "songend",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				-61
+			],
+			"anim": "Endthis",
+			"fps": 18,
+			"name": "endthis",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hyper_knux",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hyperknux",
+	"flip_x": false,
+	"healthbar_colors": [
+		206,
+		163,
+		255
+	],
+	"camera_position": [
+		50,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-263
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RayLeft"
+		},
+		{
+			"offsets": [
+				-45,
+				-265
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RayRightPose"
+		},
+		{
+			"offsets": [
+				-30,
+				-281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownRayPose"
+		},
+		{
+			"offsets": [
+				-56,
+				-215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpRay"
+		},
+		{
+			"offsets": [
+				0,
+				-230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TT_D_Ray",
+	"position": [
+		-140,
+		-120
+	],
+	"healthicon": "ray",
+	"flip_x": false,
+	"healthbar_colors": [
+		151,
+		108,
+		160
+	],
+	"camera_position": [
+		-60,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

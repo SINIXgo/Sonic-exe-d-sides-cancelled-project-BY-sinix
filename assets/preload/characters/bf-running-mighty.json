@@ -1,0 +1,197 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-240,
+				-440
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mighty Idle"
+		},
+		{
+			"offsets": [
+				-233,
+				-416
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Mighty Down"
+		},
+		{
+			"offsets": [
+				-240,
+				-434
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "first dialogue",
+			"indices": [],
+			"name": "dialogue 1"
+		},
+		{
+			"offsets": [
+				-229,
+				-416
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Mighty Up"
+		},
+		{
+			"offsets": [
+				-240,
+				-434
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Mighty Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-240,
+				-434
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Mighty Right Miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-230,
+				-417
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Mighty Left Miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-233,
+				-416
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Mighty Down Miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-229,
+				-416
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Mighty Up miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-230,
+				-417
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Mighty Left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				-240,
+				-434
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Mighty Right0"
+		},
+		{
+			"offsets": [
+				-230,
+				-417
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mighty Left0"
+		},
+		{
+			"offsets": [
+				-229,
+				-416
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mighty Up0"
+		},
+		{
+			"offsets": [
+				-233,
+				-416
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mighty Down0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Mightybeta",
+	"position": [
+		60,
+		140
+	],
+	"healthicon": "PixMighty",
+	"flip_x": true,
+	"healthbar_colors": [
+		108,
+		108,
+		216
+	],
+	"camera_position": [
+		-130,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 6.1
+}

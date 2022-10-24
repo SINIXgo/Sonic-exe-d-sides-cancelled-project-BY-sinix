@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ZephaniahIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-122,
+				162
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LeftNotezephaniah"
+		},
+		{
+			"offsets": [
+				-80,
+				151
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DownMightyPose"
+		},
+		{
+			"offsets": [
+				-163,
+				231
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "UpZephaniapose"
+		},
+		{
+			"offsets": [
+				-222,
+				185
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RightNoteZephaniah"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zephaniah",
+	"position": [
+		-390,
+		-80
+	],
+	"healthicon": "Zephaniah",
+	"flip_x": false,
+	"healthbar_colors": [
+		42,
+		5,
+		118
+	],
+	"camera_position": [
+		20,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

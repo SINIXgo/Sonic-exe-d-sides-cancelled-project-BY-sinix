@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-190,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sarah_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-195
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sarah_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-214
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sarah_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-118
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sarah_DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-208,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sarah_UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sarah",
+	"position": [
+		-150,
+		-60
+	],
+	"healthicon": "needlemouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		0,
+		255
+	],
+	"camera_position": [
+		70,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

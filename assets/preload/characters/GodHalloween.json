@@ -1,0 +1,121 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				176
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftGodz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				293,
+				333
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownGodz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				300
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpGodz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				309
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightGodz",
+			"indices": []
+		},
+		{
+			"offsets": [
+				310,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "IdleGodz"
+		},
+		{
+			"offsets": [
+				310,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "IdleGodz"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TOF_GODZ",
+	"position": [
+		-60,
+		350
+	],
+	"healthicon": "tankman",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		-140,
+		-280
+	],
+	"sing_duration": 6.89999999999999,
+	"scale": 1.1
+}
