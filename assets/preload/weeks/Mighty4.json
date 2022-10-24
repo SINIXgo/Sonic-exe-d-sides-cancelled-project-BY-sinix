@@ -1,0 +1,41 @@
+{
+	"storyName": "v3 Part 2",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hollow",
+			"icon",
+			[
+				26,
+				40,
+				53
+			]
+		],
+		[
+			"substantial",
+			"icon",
+			[
+				26,
+				40,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "v3p2",
+	"hiddenUntilUnlocked": false
+}

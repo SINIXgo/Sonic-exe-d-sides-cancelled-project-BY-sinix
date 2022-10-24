@@ -1,0 +1,86 @@
+{
+	"storyName": "Extras",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"endless",
+			"tenma",
+			[
+				106,
+				0,
+				153
+			]
+		],
+		[
+			"cycles",
+			"z",
+			[
+				106,
+				0,
+				153
+			]
+		],
+		[
+			"milk",
+			"mitee",
+			[
+				106,
+				0,
+				153
+			]
+		],
+		[
+			"chaos",
+			"Hyperknux",
+			[
+				106,
+				0,
+				153
+			]
+		],
+		[
+			"sunshine",
+			"raydoll",
+			[
+				106,
+				0,
+				153
+			]
+		],
+		[
+			"soulless",
+			"raydoll",
+			[
+				106,
+				0,
+				153
+			]
+		],
+		[
+			"too-fest",
+			"meaty",
+			[
+				106,
+				0,
+				153
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

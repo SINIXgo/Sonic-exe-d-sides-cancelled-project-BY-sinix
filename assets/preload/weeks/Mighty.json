@@ -1,0 +1,50 @@
+{
+	"storyName": "Main Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"you-cant-run",
+			"ycr",
+			[
+				106,
+				0,
+				73
+			]
+		],
+		[
+			"triple-trouble",
+			"zephaniah",
+			[
+				86,
+				0,
+				53
+			]
+		],
+		[
+			"final-escape",
+			"fe",
+			[
+				0,
+				0,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

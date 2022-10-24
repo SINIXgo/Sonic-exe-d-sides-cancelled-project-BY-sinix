@@ -1,0 +1,86 @@
+{
+	"storyName": "v3",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Trick-or-flee",
+			"halloween",
+			[
+				0,
+				40,
+				93
+			]
+		],
+		[
+			"prey",
+			"shadowbot",
+			[
+				0,
+				40,
+				93
+			]
+		],
+		[
+			"fight-or-flight",
+			"mariastarved",
+			[
+				0,
+				40,
+				93
+			]
+		],
+		[
+			"personel",
+			"burningold",
+			[
+				0,
+				40,
+				93
+			]
+		],
+		[
+			"manual-blast",
+			"hare",
+			[
+				0,
+				40,
+				93
+			]
+		],
+		[
+			"malediction",
+			"Clover",
+			[
+				0,
+				40,
+				93
+			]
+		],
+		[
+			"fatality",
+			"C-Ex",
+			[
+				0,
+				40,
+				93
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "v3",
+	"hiddenUntilUnlocked": false
+}
