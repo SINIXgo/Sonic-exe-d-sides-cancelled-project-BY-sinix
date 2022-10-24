@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Chaotix.png"><SubTexture name="down0000" x="0" y="0" width="442" height="673" frameX="-8" frameY="-6" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0000" x="1768" y="0" width="458" height="658" frameX="-7" frameY="-21" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0001" x="1768" y="0" width="458" height="658" frameX="-7" frameY="-21" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0002" x="1768" y="658" width="455" height="654" frameX="-8" frameY="-25" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0003" x="1768" y="658" width="455" height="654" frameX="-8" frameY="-25" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0004" x="886" y="673" width="450" height="661" frameX="-8" frameY="-18" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0005" x="886" y="673" width="450" height="661" frameX="-8" frameY="-18" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0006" x="442" y="673" width="444" height="670" frameX="-8" frameY="-9" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0007" x="442" y="673" width="444" height="670" frameX="-8" frameY="-9" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0008" x="442" y="0" width="442" height="673" frameX="-8" frameY="-6" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0009" x="442" y="0" width="442" height="673" frameX="-8" frameY="-6" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0010" x="442" y="0" width="442" height="673" frameX="-8" frameY="-6" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0011" x="442" y="0" width="442" height="673" frameX="-8" frameY="-6" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0012" x="442" y="0" width="442" height="673" frameX="-8" frameY="-6" frameWidth="467" frameHeight="685" />
+<SubTexture name="idle0013" x="442" y="0" width="442" height="673" frameX="-8" frameY="-6" frameWidth="467" frameHeight="685" />
+<SubTexture name="left0000" x="884" y="0" width="442" height="673" frameX="-8" frameY="-6" frameWidth="467" frameHeight="685" />
+<SubTexture name="right0000" x="1326" y="0" width="442" height="673" frameX="-8" frameY="-6" frameWidth="467" frameHeight="685" />
+<SubTexture name="up0000" x="0" y="673" width="442" height="673" frameX="-8" frameY="-6" frameWidth="467" frameHeight="685" />
+</TextureAtlas>
